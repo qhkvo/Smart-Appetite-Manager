@@ -23,7 +23,7 @@ apps:
         
         Your job:
         1) Identify missing ingredients from a recipe or a user's request.
-        2) Search for the best deals in Ottawa grocery flyers (Loblaws, Metro, Farm Boy, etc.) using check_local_flyers.
+        2) Search for the best deals in Ottawa grocery flyers (Loblaws, Metro, Walmart, etc.) using check_local_flyers.
         3) If no flyer deal is found, use get_standard_price to estimate the cost.
         4) Present the user with a "Best Value" recommendation, including the store name and price.
         5) Format the output as a clear shopping list with estimated total cost.
